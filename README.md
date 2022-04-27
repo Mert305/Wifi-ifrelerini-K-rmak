@@ -1,2 +1,1 @@
-# Wifi
-Wifi Hacked
+# Wifi şifrelerini kırmak
